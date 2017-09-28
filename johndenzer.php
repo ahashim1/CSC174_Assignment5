@@ -13,9 +13,21 @@
 	</head>
 
 	<body>
-		<div class="backgroundContainer">
-		<div class="container">
 		
+		<div class="container">
+
+		<!-- Done by John -->
+		
+		<nav>
+			<div class="nav-container">
+				<a href="index.php" class="home-link-left">Home</a>
+				<ul id="nav-mobile" class="right hide-on-small-and-down">
+					<li class="active"><a href="johndenzer.php">John Denzer</a></li>
+					<li><a href="alihashim.php">Ali Hashim</a></li>
+					<li><a href="aaronraymond.php">Aaron Raymond</a></li>
+				</ul>
+			</div>
+		</nav>
 		
 		<header>
 			<h1>John Denzer</h1>
@@ -23,15 +35,7 @@
 		
 		
 		<!-- Creating dropdown menu -->
-		<a class='dropdown-button btn' data-hover="true" href='#' data-activates='dropdown1'>Menu</a>
 		
-		<ul id='dropdown1' class='dropdown-content'>
-			<li><a href="index.php">Home</a></li>
-			<li><a href="johndenzer.php">John Denzer</a></li>
-			<li><a href="alihashim.php">Ali Hashim</a></li>
-			<li><a href="aaronraymond.php">Aaron Raymond</a></li>
-		</ul>
-
 		
 		<h2>An Introduction</h2>
 		
@@ -75,7 +79,7 @@
 		</div>
 		</div>
 	</div> <!-- container -->
-	</div> <!-- backgroundContainer -->
+
 	
 		<!-- Init JQ -->
 		<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>

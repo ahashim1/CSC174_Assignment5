@@ -13,22 +13,22 @@
 	font-size: inherit;
 }
 
-/* Overwriting style for the drop down button menu */
+/* Overwriting style for the menu */
 
-.btn{
-	background-color: #5DC4FA;
-	color: #E9F0F4;
-}
-
-.dropdown-content li>span, .dropdown-content li>a{
-	color: #5DC4FA;
+nav{
+	background-color:gray;
 }
 
 .container{
-	background-color: #D8FBFF;
-	
+	background-color: #D8FBFF;	
 }
 
 html{
 	background-color: #E9F0F4;
 }
+
+.home-link-left{
+	padding-left: 10px;
+	font-size: 150%;
+}
+
