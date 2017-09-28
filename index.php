@@ -13,7 +13,7 @@
 <body>
 
 
-	<div class="container">
+	
 		
 		<!-- Done by John -->
 		<nav>
@@ -27,6 +27,7 @@
 			</div>
 		</nav>
 
+	<div class="container">
 	<h1>Portfolios</h1>
 
 	<section>

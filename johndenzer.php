@@ -14,7 +14,7 @@
 
 	<body>
 		
-		<div class="container">
+		
 
 		<!-- Done by John -->
 		
@@ -29,6 +29,7 @@
 			</div>
 		</nav>
 		
+		<div class="container">
 		<header>
 			<h1>John Denzer</h1>
 		</header>

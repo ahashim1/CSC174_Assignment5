@@ -12,7 +12,7 @@
 
 <body>
 
-	<div class="container">
+	
 	
 		<!-- Done by John -->
 		
@@ -26,6 +26,8 @@
 				</ul>
 			</div>
 		</nav>
+
+	<div class="container">
 
 	<header>
 		<h1>Ali Hashim</h1>

@@ -12,7 +12,7 @@
 
 <body>
 
-	<div class="container">
+	
 	
 		<!-- Done by John -->
 		
@@ -27,6 +27,7 @@
 			</div>
 		</nav>
 
+	<div class="container">
 	<header>
 		<h1>Aaron Raymond</h1>
 	</header>
