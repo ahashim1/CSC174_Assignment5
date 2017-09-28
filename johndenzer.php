@@ -39,56 +39,40 @@
 		</header>
 		
 		
-		<!-- Creating dropdown menu -->
-		
-		
-		<h2>An Introduction</h2>
-		
-		<h3>Interesting Facts</h3>
-		<ul.browser-default>
-			<li>Born in San Francisco</li>
-			<li>Played baseball for 15 years</li>
-			<li>Studying Financial Economics</li>
-			<li>Interested in a career in investment banking</li>	
-		</ul>
-		
-		
-		
-		<h3>My Experience</h3>
-		<ul.browser-default>
-			<li>Worked at Exit Partners, LLC.  Worked on CIMs, modeling and general day to day analyst assignments where I learned a lot about working in a group in an Investment Banking environment.</li>
-			<li>Created own computer building business called Jack's PCs in high school focused on buying computer parts, building the computer, and installing in home of the clients.</li>
-			<li>Worked as the president of the Young Men's Service League in high school helping out with philanthropies dedicated to special needs children around the Dallas Metroplex. </li>
-		</ul>
+		<h2>About Me</h2>
 
-		<!-- Dividing into columns as a test -->
-		<div class="row">
-		<div class="col s4"><span class="flow-text"> 
-		<h3>My Schoolwork</h3>
-		<p>I have taken classes primarily in the Economics, Finance and Computer Science worlds.  Some of the Economics classes include ECO 108, 207, 209, 230, 231w and I am currently a Teaching Assistant for ECO 207.  I have taken Accounting 201 and am currently taking Finance 205.  In the Computer Science world, I have taken CSC 170, 171, 172 and now 174.  I am looking to leverage my classwork in Computer Science to make myself look like a more applicable candidate for investment banking roles. My favorite class that I have taken is ECO 207 as I undersood it and really enjoyed the professor's lectures. </p>
-		</span>
-		</div>
+		<p>I am a junior studying Financial Economics at the University of Rochester.  I am a huge fan of European soccer and I very much enjoy playing in my spare time.  I am hoping to break into the investment banking sector after graduation.</p>
 		
-		<div class="row">
-		<div class="col s4"><span class="flow-text"> 
-		<h3>My Baseball Career</h3>
-		<p>I have played baseball now for 15 years or so and it was my lifelong dream to play college baseball and luckily I was given that opportunity when I came to the University of Rochester.  I am a right handed starting pitcher and I actually set a school record this last season for least amount of walks per nine innings pitched.  I also was 2nd in the NCAA for the same stat this last season. I love baseball and I hope the last two seasons of my career do not go too quickly.</p>
-		</span>
-		</div>
 		
-		<div class="row">
-		<div class="col s4"><span class="flow-text"> 
-		<h3>My Interests</h3>
-		<p>I am very interested in sports and in computers.  I follow European soccer very closely and I am an avid computer builder.  I am a huge Tottenham Hotspur fan and follow the news religiously regarding what is going on with them currently.  I enjoy following tech news as well and one of my favorite companies is AMD and I love following how their stock moves so quickly in the market due to their contributions to the semiconductor space. </p>	
-		</span>
-		</div>
-		</div>
+		
+		<h2>Experience</h2>
+		
+		<h3>Investment Banking - Exit Partners, LLC</h3>
+			
+			<p>I worked as a summer analsyt focusing on typical day to day work of an investment banker.  I edited CIMs, created pitchbooks, and worked on financial modeling for the firm's clients. </p>
+		
+		<h3>Computer Building - Jack's PCs</h3>
+		
+			<p>I started a small business focused on building in home desktops for clients.  I was involved in the planning, building and installing portions of the sales. </p>
+			
+		<h3>Philanthropy - Young Men's Service Leauge</h3>
+		
+			<p>I worked as the President of a Dallas based philanthropy focused on helping special needs children and working with them in a school like environment.</p>
+		 
+		<h2>Extracurriculars</h2> 
+
+		<p>I have played baseball now for 15 years or so and it was my lifelong dream to play college baseball and luckily I was given that opportunity when I came to the University of Rochester.  I am a right handed starting pitcher and I actually set a school record this last season for least amount of walks per nine innings pitched.  I also was 2nd in the NCAA for the same stat this last season. I love baseball and I hope the last two seasons of my career do not go too quickly.  I am very interested in sports and in computers.  I follow European soccer very closely and I am an avid computer builder.  I am a huge Tottenham Hotspur fan and follow the news religiously regarding what is going on with them currently.  I enjoy following tech news as well and one of my favorite companies is AMD and I love following how their stock moves so quickly in the market due to their contributions to the semiconductor space. </p>
+		
+	<footer>
+		<div>© John Denzer 2017</div>
+	</footer>
+	
 	</div> <!-- container -->
 
 	
-		<!-- Init JQ -->
-		<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-        <script type="text/javascript" src="js/materialize.min.js"></script>
+	<!-- Init JQ -->
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="js/materialize.min.js"></script>
 	
 </body>
 	
