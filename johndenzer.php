@@ -2,21 +2,25 @@
 
 <html lang="en">
 
-	<head>
-		
-		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-		<link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
-		<link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-		<meta charset="utf-8">
-		<title>John Denzer</title>
-	</head>
+<head>
 
-	<body>
+	<!-- Importing fonts -->
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<!-- Importing materialize css (minimized) -->
+	<link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+	<!-- Importing override file -->
+	<link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+	<!-- Setting viewport -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<meta charset="utf-8">
+	<title>John Denzer</title>
+</head>
+
+<body>
 		
 		
 
-		<!-- Done by John -->
+		<!-- navigation done by John -->
 		
 		<nav>
 			<div class="nav-container">
@@ -86,6 +90,6 @@
 		<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
         <script type="text/javascript" src="js/materialize.min.js"></script>
 	
-	</body>
+</body>
 	
 </html>
