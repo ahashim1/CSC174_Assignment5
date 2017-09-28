@@ -17,10 +17,15 @@
 
 nav{
 	background-color:gray;
+	position: fixed;
+    top: 0;
+    width: 100%; 
+
 }
 
 .container{
 	background-color: #D8FBFF;	
+	padding-top: 60px;
 }
 
 html{
