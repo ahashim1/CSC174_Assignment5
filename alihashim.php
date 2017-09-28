@@ -1,18 +1,31 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<title>Ali Hashim's Portfolio</title>
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+	<link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Ali Hashim's Portfolio</title>
 
 </head>
 
 <body>
 
+	<div class="container">
+
 	<header>
 		<h1>Ali Hashim</h1>
 	</header>
-
+	
+	<a class='dropdown-button btn' data-hover="true" href='#' data-activates='dropdown1'>Menu</a>
+		
+		<ul id='dropdown1' class='dropdown-content'>
+			<li><a href="index.php">Home</a></li>
+			<li><a href="johndenzer.php">John Denzer</a></li>
+			<li><a href="alihashim.php">Ali Hashim</a></li>
+			<li><a href="aaronraymond.php">Aaron Raymond</a></li>
+		</ul>
 
 	<!-- About Me Section -->
 	<section>
@@ -86,6 +99,11 @@
 	<footer>
 		<div>© Ali Hashim 2017</div>
 	</footer>
+	
+	</div>
 
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="js/materialize.min.js"></script>
+	
 </body>
 </html>
