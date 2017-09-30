@@ -22,12 +22,18 @@
 		<!-- navigation done by John -->
 		
 		<nav>
-			<div class="nav-container">
+			<div class="nav-container nav-wrapper">
 				<a href="index.php" class="home-link-left">Home</a>
-				<ul id="nav-mobile" class="right hide-on-small-and-down">
+				<a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i>>
+				<ul class="right hide-on-med-and-down">
 					<li><a href="johndenzer.php">John Denzer</a></li>
 					<li><a href="alihashim.php">Ali Hashim</a></li>
-					<li class="active"><a href="aaronraymond.php">Aaron Raymond</a></li>
+					<li><a href="aaronraymond.php">Aaron Raymond</a></li>
+				</ul>
+				<ul class="side-nav" id="mobile-demo">
+					<li><a href="johndenzer.php">John Denzer</a></li>
+					<li><a href="alihashim.php">Ali Hashim</a></li>
+					<li><a href="aaronraymond.php">Aaron Raymond</a></li>
 				</ul>
 			</div>
 		</nav>
@@ -99,6 +105,6 @@
 	<!-- Init JQ -->
 	<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script type="text/javascript" src="js/materialize.min.js"></script>
-	
+	<script type="text/javascript"> $(".button-collapse").sideNav();</script>
 </body>
 </html>
