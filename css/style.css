@@ -45,15 +45,19 @@ nav{
 
 a:hover {
 	color: #5DC4FA;
-	background: none;
 }
 
 a:active {
 	text-decoration-color: #5DC4FA;
 }
 
-.button-disabled:hover {
-	background: #999FAC;
+/*nav ul li .button-disabled:hover {
+	background-color: #999FAC;
+}
+*/
+
+.nav-wrapper > ul > li > a:hover {
+  color: white;
 }
 
 /*#mobile-demo .side-nav{
@@ -64,7 +68,7 @@ a:active {
 
 .container{
 	background-color: #D8FBFF;	
-	padding-top: 60px;
+	padding-top: 15px;
 }
 
 /* =============================== Body =================================== */

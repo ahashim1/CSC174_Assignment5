@@ -18,10 +18,10 @@
 <body>
 		
 		<!-- navigation done by John -->
-		<nav>
+		<nav class="z-depth-0">
 			<div class="nav-container nav-wrapper">
 				<a href="index.php" class="home-link-left">Home</a>
-				<a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i>
+				<a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i>>
 				<ul class="right hide-on-med-and-down">
 					<li><a href="johndenzer.php" class="buton-disabled">John Denzer</a></li>
 					<li><a href="alihashim.php" class="buton-disabled">Ali Hashim</a></li>
@@ -36,12 +36,11 @@
 		</nav>
 
 	<div class="container">
-	<h1>Portfolios</h1>
 
 	<section>
 		<h2>John Denzer</h2>
 		<p>John studies financial economics at the University of Rochester. John has an avid interest in sports and computers. He enjoys following tech news and one of his favorite companies is AMD. John is a right handed starting pitcher and was 2nd in the NCAA for least amount of walks per nine innings.</p>
-		<a class="btn" href="johndenzer.php">Read more about John</a>
+		<a class="btn light-blue lighten-2" href="johndenzer.php">Read more about John</a>
 
 	</section>
 
