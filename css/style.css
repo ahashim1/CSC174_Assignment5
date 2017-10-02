@@ -78,3 +78,8 @@ body{
 
 /* ============= Div style for homepage and portfolio pages =============== */
 
+/* ========================= Card Panel Work for button =================== */
+
+.btn{
+	margin-bottom: 15px;
+}
