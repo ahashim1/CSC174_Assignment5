@@ -52,6 +52,7 @@
 	</section>
 
 	<!-- The main section is composed of my experiences -->
+	<div class="divider"></div>
 	<main>
 		<h2>Experience</h2>
 
@@ -96,7 +97,9 @@
 			</ul>
 		</section>
 
+		
 		<section>
+		
 			<h3>Optics Skills</h3>
 			<ul>
 				<li>Alignment & Mounting Optics</li>
@@ -110,6 +113,8 @@
 		</section>
 
 	</main>
+	
+	<div class="divider"></div>
 
 	<!-- Copyright footer -->
 	<footer>

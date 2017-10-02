@@ -44,7 +44,7 @@
 			<a class="btn light-blue lighten-2 z-depth-0" href="johndenzer.php">Read more about John</a>
 		</div>
 		<div class="col l4 pull-l8 center-align">
-			<img src="images/baseball.png" alt="Baseball player hitting a ball" height="200" width="200">
+			<img src="images/baseball.png" alt="Baseball player hitting a ball">
 		</div>
 	</div><!-- row 1 -->
 

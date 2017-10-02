@@ -73,12 +73,21 @@ a:active {
 body{
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", 
 	"Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-	color: #E9F0F4;
+	color: black;
 }
 
 /* ============= Div style for homepage and portfolio pages =============== */
 
-/* ========================= Card Panel Work for button =================== */
+.divider{
+	height: 2px;
+	background-color: #90a4ae;
+}
+
+/* ========================= Card Panel Work for index =================== */
+
+.card-panel{
+	padding: 0;
+}
 
 .btn{
 	margin-bottom: 15px;
