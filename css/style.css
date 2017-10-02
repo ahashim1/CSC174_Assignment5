@@ -22,7 +22,6 @@ html{
 
 
 nav{
-	background-color: rgba(153, 159, 172, 0.98);
 /*	position: fixed;*/
     top: 0;
     width: 100%; 
@@ -36,11 +35,22 @@ nav{
   	margin: 0 auto;
 }
 
-
-
 .home-link-left{
 	padding-left: 10px;
 	font-size: 150%;
+}
+
+
+/*body > nav > div > a:hover {
+	background-color: red;
+}
+
+.button-disabled:hover{
+	background-color: red;
+}
+
+.nav-wrapper > ul > li > a:hover {
+  color: white;
 }
 
 a:hover {
@@ -49,22 +59,9 @@ a:hover {
 
 a:active {
 	text-decoration-color: #5DC4FA;
-}
+}*/
 
-/*nav ul li .button-disabled:hover {
-	background-color: #999FAC;
-}
-*/
-
-.nav-wrapper > ul > li > a:hover {
-  color: white;
-}
-
-/*#mobile-demo .side-nav{
-	background-color: rgba(153, 159, 172, 0.98);
-}
-*/
-/* ============ Main Page Container - Light Blue Background ============== */
+/* ========================= Home Page Container ========================== */
 
 .container{
 	background-color: #D8FBFF;	
@@ -76,6 +73,7 @@ a:active {
 body{
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", 
 	"Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	color: #E9F0F4;
 }
 
 /* ============= Div style for homepage and portfolio pages =============== */
