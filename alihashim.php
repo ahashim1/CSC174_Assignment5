@@ -38,21 +38,32 @@
 
 	<div class="container">
 
-	<header>
-		<h1>Ali Hashim</h1>
-	</header>
-	
+	<div class="wrapper">
+
+	<div class="one">
+		<header class="row">		
+				<h1 class="center-align">Ali Hashim</h1>
+		</header>
+	</div><!-- one -->
 
 	<!-- About Me Section -->
-	<section>
-		<h2>About Me</h2>
-		<p>
-			I’m a twenty-one year old optical engineer studying at the University of Rochester. I am passionate about manipulating light to create great products! I am also a self-taught mobile application developer and graphic designer and am looking to apply my skills to serve a design, testing, and manufacturing role.
-		</p>
-	</section>
+
+	<div class="two">
+			<img src="images/ali.jpg" alt="Ali Hashim" class="portrait col s4 push-s8">
+	</div><!-- two -->
+
+	<div class="three card-panel blue-grey lighten-2 z-depth-0">
+		<section>
+			<h2>About Me</h2>
+			<p>
+				I’m a twenty-one year old optical engineer studying at the University of Rochester. I am passionate about manipulating light to create great products! I am also a self-taught mobile application developer and graphic designer and am looking to apply my skills to serve a design, testing, and manufacturing role.
+			</p>
+		</section>
+	</div><!-- three -->
 
 	<!-- The main section is composed of my experiences -->
-	<div class="divider"></div>
+	<div class="four card-panel blue-grey lighten-2 z-depth-0">
+
 	<main>
 		<h2>Experience</h2>
 
@@ -80,7 +91,9 @@
 			<p>Conducted biological lab techniques to determine the environmental stressors for age-related macular disorders. </p>
 		</section>
 	
+	</div><!-- four -->
 
+	<div class="five card-panel blue-grey lighten-2 z-depth-0">
 		<section>
 			<h3>Computer Skills</h3>
 			<ul>
@@ -112,16 +125,17 @@
 			</ul>
 		</section>
 
+	</div><!-- five -->
 	</main>
 	
-	<div class="divider"></div>
-
 	<!-- Copyright footer -->
 	<footer>
 		<div>© Ali Hashim 2017</div>
 	</footer>
+
+	</div><!-- Wrapper -->
 	
-	</div>
+	</div><!-- Container -->
 
 	<!-- Init JQ -->
 	<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>

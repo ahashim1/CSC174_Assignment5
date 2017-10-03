@@ -13,7 +13,7 @@
 	font-size: inherit;
 }
 
-html{
+html {
 	background-color: #E9F0F4;
 }
 
@@ -21,7 +21,7 @@ html{
 
 
 
-nav{
+nav {
 /*	position: fixed;*/
     top: 0;
     width: 100%; 
@@ -29,13 +29,13 @@ nav{
 	"Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
-.container, .nav-container{
+.container, .nav-container {
 	max-width: 1280px;
   	width: 90%;
   	margin: 0 auto;
 }
 
-.home-link-left{
+.home-link-left {
 	padding-left: 10px;
 	font-size: 150%;
 }
@@ -45,7 +45,7 @@ nav{
 	background-color: red;
 }
 
-.button-disabled:hover{
+.button-disabled:hover {
 	background-color: red;
 }
 
@@ -63,32 +63,90 @@ a:active {
 
 /* ========================= Home Page Container ========================== */
 
-.container{
+.container {
 	background-color: #D8FBFF;	
 	padding: 50px;
 }
 
 /* =============================== Body =================================== */
 
-body{
+body {
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", 
 	"Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-	color: black;
+	color: #E9F0F4;
 }
 
 /* ============= Div style for homepage and portfolio pages =============== */
 
-.divider{
+/*.divider {
 	height: 2px;
 	background-color: #90a4ae;
-}
+}*/
 
 /* ========================= Card Panel Work for index =================== */
 
-.card-panel{
-	padding: 0;
+.card-panel {
+	padding: 15px;
 }
 
-.btn{
+.btn {
 	margin-bottom: 15px;
 }
+
+/* ========================= h1 for portfolio pages  =================== */
+
+h1 {
+	color: #90a4ae;
+}
+
+
+/* ===================== Portrait for portfolio pages  ================== */
+
+.portrait {
+	width: 100%;
+	height: 100%;
+}
+
+/* ========================= Grid for portfolio pages  =================== */
+
+.wrapper {
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	grid-gap: 25px;
+	grid-auto-rows: minmax(100px, auto);
+}
+
+.one {
+	grid-column: 1 / 4;
+	grid-row: 1;
+}
+
+.two {
+	grid-column: 4 / 6;
+	grid-row: 1 / 3;
+}
+
+.three {
+	grid-column: 1 / 4;
+	grid-row: 2;
+}
+
+.four {
+	grid-column: 1 / 4;
+	grid-row: 3 / 6;
+}
+
+.five {
+	grid-column: 4 / 6;
+	grid-row: 3 / 5;
+}
+
+
+
+
+
+
+
+
+
+
