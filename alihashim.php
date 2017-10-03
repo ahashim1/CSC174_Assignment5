@@ -73,9 +73,10 @@
 			<h3 class="portfolio">University of Rochester Medical Center Research Assistant</h3>
 			<p>Conducted biological lab techniques to determine the environmental stressors for age-related macular disorders. </p>
 		</section>
-	
+	</main>
 	</div><!-- four -->
 
+	<aside>
 		<div class="five card-panel blue-grey lighten-2 z-depth-0">
 			<h2 class="portfolio">Skills</h2>
 				
@@ -111,7 +112,7 @@
 			</section>
 
 		</div><!-- five -->
-	</main>
+	</aside>
 	
 	
 	<!-- Copyright footer -->
