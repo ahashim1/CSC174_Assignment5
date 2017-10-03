@@ -101,7 +101,7 @@
 		<div>© Aaron Raymond 2017</div>
 	</footer>
 	
-	</div>
+	</div><!-- Container -->
 
 	<!-- Init JQ -->
 	<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
