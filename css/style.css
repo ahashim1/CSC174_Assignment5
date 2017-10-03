@@ -25,7 +25,7 @@ nav{
 /*	position: fixed;*/
     top: 0;
     width: 100%; 
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", 
+    font-family: "HelveticaNeue-Regular", "Helvetica Neue Regular", 
 	"Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
@@ -65,7 +65,7 @@ a:active {
 
 .container{
 	background-color: #D8FBFF;	
-	padding-top: 15px;
+	padding: 50px;
 }
 
 /* =============================== Body =================================== */
