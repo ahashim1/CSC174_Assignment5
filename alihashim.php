@@ -48,7 +48,6 @@
 
 	<main>
 		<h2 class="portfolio">Experience</h2>
-		<h2>Experience</h2>
 
 
 		<section>
@@ -113,39 +112,7 @@
 
 		</div><!-- five -->
 	</main>
-	<div class="five card-panel blue-grey lighten-2 z-depth-0">
-		<section>
-			<h3>Computer Skills</h3>
-			<ul>
-				<li>Adobe Experience Design</li>
-				<li>Adobe Illustrator</li>
-				<li>Adobe Photoshop</li>
-				<li>HTML & CSS</li>
-				<li>Java</li>
-				<li>JavaScript</li>
-				<li>Matlab</li>
-				<li>Microsoft Office</li>
-				<li>Python</li>
-				<li>Swift</li>
-			</ul>
-		</section>
-
-		
-		<section>
-		
-			<h3>Optics Skills</h3>
-			<ul>
-				<li>Alignment & Mounting Optics</li>
-				<li>Code V</li>
-				<li>Laser Engineering</li>
-				<li>Lithography</li>
-				<li>Liquid Crystal Design</li>
-				<li>Optoelectronics</li>
-				<li>Zemax</li>
-			</ul>
-		</section>
-
-	</div><!-- five -->
+	
 	
 	<!-- Copyright footer -->
 	<footer>
