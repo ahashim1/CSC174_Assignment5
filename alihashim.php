@@ -22,16 +22,16 @@
 		<nav class="z-depth-0 blue-grey lighten-2">
 			<div class="nav-container nav-wrapper">
 				<a href="index.php" class="home-link-left">Home</a>
-				<a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i>>
+				<a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i>
 				<ul class="right hide-on-med-and-down">
-					<li><a href="johndenzer.php" class="buton-disabled">John Denzer</a></li>
-					<li><a href="alihashim.php" class="buton-disabled">Ali Hashim</a></li>
-					<li><a href="aaronraymond.php" class="buton-disabled">Aaron Raymond</a></li>
+					<li><a href="johndenzer.php">John Denzer</a></li>
+					<li><a href="alihashim.php">Ali Hashim</a></li>
+					<li><a href="aaronraymond.php">Aaron Raymond</a></li>
 				</ul>
 				<ul class="side-nav" id="mobile-demo">
-					<li><a href="johndenzer.php" class="buton-disabled">John Denzer</a></li>
-					<li><a href="alihashim.php" class="buton-disabled">Ali Hashim</a></li>
-					<li><a href="aaronraymond.php" class="buton-disabled">Aaron Raymond</a></li>
+					<li><a href="johndenzer.php">John Denzer</a></li>
+					<li><a href="alihashim.php">Ali Hashim</a></li>
+					<li><a href="aaronraymond.php">Aaron Raymond</a></li>
 				</ul>
 			</div>
 		</nav>
@@ -49,7 +49,7 @@
 	<!-- About Me Section -->
 
 	<div class="two">
-			<img src="images/ali.jpg" alt="Ali Hashim" class="portrait col s4 push-s8">
+			<img src="images/ali.jpg" alt="Ali Hashim" class="portrait">
 	</div><!-- two -->
 
 	<div class="three card-panel blue-grey lighten-2 z-depth-0">

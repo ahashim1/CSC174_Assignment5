@@ -40,26 +40,10 @@ nav {
 	font-size: 150%;
 }
 
-
-/*body > nav > div > a:hover {
-	background-color: red;
-}
-
-.button-disabled:hover {
-	background-color: red;
-}
-
-.nav-wrapper > ul > li > a:hover {
-  color: white;
-}
-
-a:hover {
+nav ul a:hover, nav a:hover {
 	color: #5DC4FA;
+	background-color: #90a4ae;
 }
-
-a:active {
-	text-decoration-color: #5DC4FA;
-}*/
 
 /* ========================= Home Page Container ========================== */
 
