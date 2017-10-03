@@ -16,25 +16,9 @@
 </head>
 
 <body>
-		<!-- navigation done by John -->
-		
-		<nav class="z-depth-0 blue-grey lighten-2">
-			<div class="nav-container nav-wrapper">
-				<a href="index.php" class="home-link-left">Home</a>
-				<a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i>
-				<ul class="right hide-on-med-and-down">
-					<li><a href="johndenzer.php" class="buton-disabled">John Denzer</a></li>
-					<li><a href="alihashim.php" class="buton-disabled">Ali Hashim</a></li>
-					<li><a href="aaronraymond.php" class="buton-disabled">Aaron Raymond</a></li>
-				</ul>
-				<ul class="side-nav" id="mobile-demo">
-					<li><a href="johndenzer.php" class="buton-disabled">John Denzer</a></li>
-					<li><a href="alihashim.php" class="buton-disabled">Ali Hashim</a></li>
-					<li><a href="aaronraymond.php" class="buton-disabled">Aaron Raymond</a></li>
-				</ul>
-			</div>
-		</nav>
-
+	
+	<?php include "navigation.inc";?>
+	
 	<div class="container">
 	<header>
 		<h1>Aaron Raymond</h1>
@@ -49,7 +33,7 @@
 
 	<div class="divider"></div>
 	<!-- Main Experience -->
-	<main>
+	
 		<h2>Experience</h2>
 
 		<section>
@@ -83,7 +67,7 @@
 
 			<p>Working at DCS expanded my knowledge in communications and problem solving through the installation and management of hundreds of computers. Managing the computer network for a large commercial real estate company was my primary task and in doing so I gained valuable experience in the corporate setting including setting up and ensuring conference rooms were prepared in advance of meetings and all computers were connected and fully prepared for presentations. My talents also included managing customer’s Macs in conjunction with Windows Small Business Server.</p>
 		</section>
-	</main>	
+	
 
 	<div class="divider"></div>
 

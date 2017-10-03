@@ -47,7 +47,6 @@
 	<!-- The main section is composed of my experiences -->
 	<div class="four card-panel blue-grey lighten-2 z-depth-0">
 
-	<main>
 		<h2>Experience</h2>
 
 		<section>
@@ -109,7 +108,6 @@
 		</section>
 
 	</div><!-- five -->
-	</main>
 	
 	<!-- Copyright footer -->
 	<footer>
