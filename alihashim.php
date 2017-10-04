@@ -101,11 +101,12 @@
 	</aside>
 	
 	
+	<?php 
+		$person = "© Ali Hashim 2017";
+		include "inc/footer.inc";
+		
+	?>
 	
-	<!-- Copyright footer -->
-	<footer>
-		<div>© Ali Hashim 2017</div>
-	</footer>
 
 	</div><!-- Wrapper -->
 	

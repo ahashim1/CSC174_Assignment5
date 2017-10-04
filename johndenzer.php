@@ -61,12 +61,12 @@
 		
 	</div>
 	
-	
-	
-		<footer>
-			<div>© John Denzer 2017</div>
-		</footer>
+	<?php 
+		$person = "© John Denzer 2017";
+		include "inc/footer.inc";
 		
+	?>
+	
 	</div>
 	
 	</div> <!-- container -->

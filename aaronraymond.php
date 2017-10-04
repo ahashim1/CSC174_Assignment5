@@ -78,11 +78,12 @@
 				</section>
 			</div>
 		</div><!-- row 2 -->
+	
+	<?php 
+		$person = "© Aaron Raymond 2017";
+		include "inc/footer.inc";
 		
-		<!-- Copyright footer -->
-		<footer>
-			<div>© Aaron Raymond 2017</div>
-		</footer>
+	?>
 	
 	</div><!-- Container -->
 
