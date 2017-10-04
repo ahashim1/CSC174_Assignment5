@@ -1,9 +1,9 @@
 	<?php 
 		$title = "John";
-		include "title.inc"; 
+		include "inc/title.inc"; 
 	?>
 
-	<?php include "navigation.inc";?>
+	<?php include "inc/navigation.inc";?>
 
 	<div class="container">
 	
@@ -72,4 +72,4 @@
 	</div> <!-- container -->
 
 	
-	<?php include "jq.inc";?>
+	<?php include "inc/jq.inc";?>
