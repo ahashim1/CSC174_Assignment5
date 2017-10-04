@@ -1,4 +1,4 @@
 <!-- Copyright footer -->
 		<footer>
-			<div><?php echo $person ?></div>
+			<div class="footer"><?php echo $person ?></div>
 		</footer>
