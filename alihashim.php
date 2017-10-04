@@ -3,7 +3,7 @@
 		include "inc/title.inc"; 
 	?>
 
-	<?php include "inc/.inc";?>
+	<?php include "inc/navigation.inc";?>
 
 	<div class="container">
 		<div class="wrapper">
@@ -111,3 +111,6 @@
 	</div><!-- Container -->
 
 	<?php include "inc/jq.inc";?>
+	
+	</body>
+</html>

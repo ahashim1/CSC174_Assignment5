@@ -135,7 +135,10 @@ h1.center-align.aaron {
 	grid-row: 3 / 5;
 }
 
-
+.is-current {
+	color: #5DC4FA;
+	background-color: #E9F0F4;;
+}
 
 
 

@@ -54,3 +54,6 @@
 	</div><!-- container -->
 	
 	<?php include "inc/jq.inc";?>
+	
+	</body>
+</html>

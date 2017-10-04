@@ -87,3 +87,6 @@
 	</div><!-- Container -->
 
 	<?php include "inc/jq.inc";?>
+	
+	</body>
+</html>
