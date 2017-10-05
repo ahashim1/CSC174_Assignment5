@@ -66,16 +66,15 @@
 					</section>
 				</main>	
 			</div><!-- four -->
-			<aside>
-				<div class="five card-panel blue-grey lighten-2 z-depth-0">
-					<!-- My Extracurriculars -->
-					<section>
-						<h2 class="portfolio">Extracurriculars</h2>
-							
-							<p>I founded the UR Photography Club in 2015 to promote the learning of, creating, and sharing of the art of photography. Through my leadership of the Photo Club, I have transformed the photography community at the University of Rochester into a collaborative organization providing photography services to the campus community. In addition to professional services, Photo Club also holds a trip each semester. Last semester we visited Niagara Falls and held a full day walking photo expedition around the falls starting in the United States and crossing the border into Canada. This international expedition took an incredible amount of planning but resulted in a unique learning experience coordinating such a significant trip.</p>
-					</section>
-				</div>
-			</aside>
+			
+			<div class="five card-panel blue-grey lighten-2 z-depth-0">
+				<!-- My Extracurriculars -->
+				<section>
+					<h2 class="portfolio">Extracurriculars</h2>
+						
+						<p>I founded the UR Photography Club in 2015 to promote the learning of, creating, and sharing of the art of photography. Through my leadership of the Photo Club, I have transformed the photography community at the University of Rochester into a collaborative organization providing photography services to the campus community. In addition to professional services, Photo Club also holds a trip each semester. Last semester we visited Niagara Falls and held a full day walking photo expedition around the falls starting in the United States and crossing the border into Canada. This international expedition took an incredible amount of planning but resulted in a unique learning experience coordinating such a significant trip.</p>
+				</section>
+			</div>
 
 		</div><!-- Wrapper -->
 
