@@ -49,6 +49,10 @@ nav ul a:hover, nav a:hover {
 	background-color: #90a4ae;
 }
 
+.is-current {
+		color: #222;
+	}
+
 /* ========================= Home Page Container ========================== */
 
 .container {
@@ -105,45 +109,58 @@ h1.center-align.aaron {
 
 .wrapper {
 	display: grid;
-	grid-template-columns: repeat(5, 1fr);
-	grid-gap: 25px;
-	grid-auto-rows: minmax(100px, auto);
+	grid-gap: 20px;
+	grid-template-areas: 
+		"one"
+		"two"
+		"three"
+		"four"
+		"five"
 }
 
-.one {
-	grid-column: 1 / 4;
-	grid-row: 1;
+@media (min-width: 850px){
+	.wrapper {
+		display: grid;
+		grid-template-columns: repeat(5, 1fr);
+		grid-gap: 25px;
+		grid-auto-rows: minmax(100px, auto);
+	}
+
+	.one {
+		grid-area: one;
+		grid-column: 1 / 4;
+		grid-row: 1;
+	}
+
+	.two {
+		grid-area: two;
+		grid-column: 4 / 6;
+		grid-row: 1 / 3;
+	}
+
+	.three {
+		grid-area: three;
+		grid-column: 1 / 4;
+		grid-row: 2;
+	}
+
+	.four {
+		grid-area: four;
+		grid-column: 1 / 4;
+		grid-row: 3 / 6;
+	}
+
+	.five {
+		grid-area: five;
+		grid-column: 4 / 6;
+		grid-row: 3 / 5;
+	}
 }
 
-.two {
-	grid-column: 4 / 6;
-	grid-row: 1 / 3;
-}
-
-.three {
-	grid-column: 1 / 4;
-	grid-row: 2;
-}
-
-.four {
-	grid-column: 1 / 4;
-	grid-row: 3 / 6;
-}
-
-.five {
-	grid-column: 4 / 6;
-	grid-row: 3 / 5;
-}
-
-.is-current {
-	color: #222;
-}
+/* ============================ Footer  ============================== */
 
 .footer {
-	color: #90a4ae;
-}
-
-
-
+		color: #90a4ae;
+	}
 
 
