@@ -17,7 +17,7 @@
 				</div>
 			</div>
 			<div class="col l4 pull-l8 center-align">
-				<img  class="responsive-img" src="images/baseball.png" alt="Baseball player hitting a ball">
+				<img  class="vector-img" src="images/baseball.png" alt="Baseball player hitting a ball">
 			</div>
 		</div><!-- row 1 -->
 
@@ -32,7 +32,7 @@
 				</div>
 			</div>
 			<div class="col l4 center-align">
-				<img  class="responsive-img" src="images/laptop_icon.png" alt="Laptop icon" height="200" width="200">
+				<img  class="vector-img" src="images/laptop_icon.png" alt="Laptop icon">
 			</div>
 		</div><!-- row 2 -->
 
@@ -47,7 +47,7 @@
 				</div>
 			</div>
 			<div class="col l4 pull-l8 center-align">
-				<img  class="responsive-img" src="images/camera.png" alt="Camera Icon" height="200" width="200">
+				<img  class="vector-img" src="images/camera.png" alt="Camera Icon">
 			</div>
 		</div><!-- row 3 -->
 	

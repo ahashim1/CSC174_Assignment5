@@ -30,10 +30,10 @@ nav {
 }
 
 .container, .nav-container {
-	max-width: 1280px;
-  	width: 90%;
-  	margin: 0 auto;
+  		width: 100%;
+  		
 }
+
 
 .home-link-left {
 	padding-left: 10px;
@@ -98,11 +98,19 @@ h1.center-align.aaron {
 }
 
 
+
 /* ===================== Portrait for portfolio pages  ================== */
+
 
 .portrait {
 	width: 100%;
 	height: 100%;
+	margin: 0 auto;
+}
+
+
+.card-panel{
+	width: 100%;
 }
 
 /* ========================= Grid for portfolio pages  =================== */
@@ -118,7 +126,20 @@ h1.center-align.aaron {
 		"five"
 }
 
-@media (min-width: 850px){
+.vector-img{
+	width: 200px;
+	vertical-align: middle;
+}
+
+
+@media (min-width: 1000px){
+
+	.container, .nav-container {
+		max-width: 1280px;
+  		width: 90%;
+  		margin: 0 auto;
+	}
+
 	.wrapper {
 		display: grid;
 		grid-template-columns: repeat(5, 1fr);
